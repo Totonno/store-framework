@@ -50,6 +50,7 @@
       },
       "header-row#main-mobile": {
         "children": [
+          "menu#drawer",
           "logo",
           "header-spacer",
           "minicart",
